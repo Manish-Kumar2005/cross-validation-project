@@ -1,4 +1,4 @@
-# cross-validation-project
+# Cross-validation-project
 
 Cross Validation Techniques in Machine Learning
 This project demonstrates various cross-validation techniques using Python and scikit-learn. Cross-validation is a powerful method to evaluate the performance of machine learning models on unseen data.
