@@ -25,4 +25,4 @@ NumPy
 
 pandas
 
-Matplotlib / Seaborn (if used for visualization)
+seaborn
